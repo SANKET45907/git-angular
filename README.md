@@ -204,22 +204,27 @@ curl -X POST http://localhost:8080/api/expenses \
 
 ---
 ## Email
-- **Name:-** *Yash Javanjal*
-- **Email:-** *yashjavanjal2512*
-- **GitHub:-** Yash-Javnjal
+- **Name:-** *Sanket Aswale*
+- **Name:-** *Someshwar Hokarne*
+- **Name:-** *Pratik Shinde*
+- **Name:-** *Tanuja Dongare*
+- **Name:-** *Jaywanta Kawale*
 
 -----
 
 ## ScreenShots:-
 ### Light Mode:-
 
-![](limg1.png)
+<img width="895" height="505" alt="image" src="https://github.com/user-attachments/assets/eee34922-4607-4062-b830-e8a93112608c" />
+
 -
-![](limg2.png)
+<img width="881" height="492" alt="image" src="https://github.com/user-attachments/assets/504ca084-07db-41c2-af99-2bc19ed39bf8" />
 
 ---
 ### Dark Mode:-
-![](dimg1.png)
+<img width="813" height="465" alt="image" src="https://github.com/user-attachments/assets/8c46032e-e092-476a-99b0-fb7142e1261d" />
+
 -
-![](dimg2.png)
+<img width="871" height="465" alt="image" src="https://github.com/user-attachments/assets/d95b0aff-7d0d-4284-870b-ca6ebbdc92de" />
+
 ---
